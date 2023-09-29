@@ -23,7 +23,7 @@ export const quiz = {
         id: 4,
         question: 'What is the most widely spoken language in the world?',
         answers: ['English', 'Mandarin', 'Spanish', 'Hindi'],
-        correctAnswer: 'Mandarin',
+        correctAnswer: 'English',
       },
       {
         id: 5,
